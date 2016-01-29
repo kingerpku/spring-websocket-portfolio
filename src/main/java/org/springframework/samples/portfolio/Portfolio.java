@@ -17,7 +17,7 @@ package org.springframework.samples.portfolio;
 
 import java.util.*;
 
-
+//ddd
 public class Portfolio {
 
 	private final Map<String,PortfolioPosition> positionLookup = new LinkedHashMap<String,PortfolioPosition>();
